@@ -2,7 +2,7 @@
 
 # Freshman Research Initiative - Energy Analytics
 ## Course in Energy Analytics
-CS 309 - Energy Analytics Unique I.D.: CS 309 50099
+CS 309 - Energy Analytics Unique I.D.: CS 309 50725
 
 **Principal Investigator**: Michael Pyrcz
 
@@ -24,7 +24,7 @@ You will gain:
 
 **Prerequisites:** None
 
-MEETS: TTH 3:30-5:00 PM JGB 2.202
+MEETS: TTH 3:30-5:00 PM Zoom
 
 INSTRUCTOR: Jesse Pisel
 
@@ -49,6 +49,3 @@ The instructor will distribute field examples in the class or on the course webs
 ### Want to Work Together?
 I hope that this is helpful to those that want to learn more about energy analytics, geostatistics, subsurface modeling, geology, and machine learning.
 
-Want to invite me to visit your company for training, mentoring, project review, workflow design and consulting, I'd be happy to drop by and work with you!
-
-Interested in partnering, supporting graduate student research or the Subsurface Data Analytics and Machine Learning consortium (co-PIs including Profs. Foster, Torres-Verdin and van Oort)? My research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
