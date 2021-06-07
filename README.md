@@ -1,12 +1,10 @@
-![Energy Analytics Logo](https://github.com/jessepisel/energy_analytics/blob/master/EA_logo.jpg)
+![Energy Analytics Logo](https://github.com/FRI-Energy-Analytics/energyanalytics/blob/main/EA_logo.jpg)
 
 # Freshman Research Initiative - Energy Analytics
 ## Course in Energy Analytics
-CS 309 - Energy Analytics Unique I.D.: CS 309 50725
+CS 309 - Energy Analytics 
 
 **Principal Investigator**: Michael Pyrcz
-
-**Research Educator**: Jesse Pisel
 
 **Course Objectives**
 
@@ -26,7 +24,7 @@ You will gain:
 
 MEETS: TTH 3:30-5:00 PM Zoom
 
-INSTRUCTOR: Jesse Pisel
+INSTRUCTOR: TBD
 
 TEACHING ASSISTANT: TBD
 
